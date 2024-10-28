@@ -1,0 +1,5 @@
+#define COR_VERMELHA   "\x1b[31m"
+#define COR_VERDE       "\x1b[32m"
+#define COR_AMARELA     "\x1b[33m"
+#define COR_AZUL        "\x1b[34m"
+#define COR_RESET       "\x1b[0m"

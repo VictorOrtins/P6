@@ -1,0 +1,8 @@
+#define RESET   "\x1b[0m"
+#define VERMELHO "\x1b[1;31m"
+#define VERDE   "\x1b[1;32m"
+#define AMARELO "\x1b[1;33m"
+#define AZUL    "\x1b[1;34m"
+#define MAGENTA "\x1b[1;35m"
+#define CIANO   "\x1b[1;36m"
+#define BRANCO  "\x1b[1;37m"
